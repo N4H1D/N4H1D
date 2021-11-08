@@ -16,13 +16,13 @@
 <br/>
 <br/>
 
-### Hi 🙋‍♂️,
+### Hi 🙋‍♂️
 ### I'm 18 years old Self-taught developer, technical support engineer , Graphics Designer from Pakistan.
 
 <br/>
 
 
-**I am Into , 🙏**
+**I am Into , **
 <br/>
 **Machine Learning, Web Development, Mobile Application Development, Cloud Computing, Linux, System Design & Programming**
 
